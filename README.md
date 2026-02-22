@@ -58,7 +58,7 @@
 # contact me :
 
 <p>
-  <strong>If you have any questions, feel free to reach out! 😉</strong>
+  <strong>if you have any questions, feel free to reach out! 😉</strong>
 </p>
 
 <p>
