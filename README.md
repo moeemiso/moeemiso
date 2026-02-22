@@ -45,9 +45,9 @@
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/visualstudio_code.png" alt="visualstudio_code" width="240" hight="60">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="170" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="175" hight="50">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="120" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="115" hight="50">
 </p>
 </br>
 </br>
@@ -58,11 +58,8 @@
 # contact me :
 
 <p>
- </br>
-
-
+ </br
 if you have any questions, feel free to reach out! 😉
-
 <a href="">
  <img align="left" alt="lin.christ@northeastern.edu" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
 </a>
