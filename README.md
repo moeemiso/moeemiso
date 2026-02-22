@@ -45,7 +45,7 @@
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/visualstudio_code.png" alt="visualstudio_code" width="240" hight="60">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="160" hight="60">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="160" hight="50">
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="120" hight="50">
 </p>
