@@ -1,4 +1,4 @@
-# Hello there! 👋
+# hello there! 👋
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://preview.redd.it/frieren-e1-e2-gifs-v0-hlj77793pzjf1.gif?width=640&crop=smart&auto=webp&s=49a980becf43bcbe1578384222dd3c85ce131d7b">
@@ -9,7 +9,7 @@
 </br>
 
 
-# About ME 💬 :
+# about me 💬 :
 
 ### - I'm currently a Computer Science undergraduate passionate about software & game development. 
 
@@ -33,7 +33,7 @@
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# languages & tools 👨‍💻 🛠:
 </br>
 
 <p align="center">
@@ -55,7 +55,7 @@
 
 
 
-# Contact Me :
+# contact me :
 
 <p>
  </br>
@@ -63,8 +63,8 @@
 
 If you have any questions, feel free to reach out! 😉
 
-<a href="lin.christ@northeastern.edu">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
+<a href="mailto:lin.christ@northeastern.edu">
+ <img align="left" alt="Outlook" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
 </a>
 <a href="https://www.linkedin.com/in/christina-lin-40466a30b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/linkedin.png" />
