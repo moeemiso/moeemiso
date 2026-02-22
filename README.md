@@ -11,7 +11,7 @@
 
 # about me 💬 :
 
-### - i'm currently a computer science undergraduate passionate about software & game development.
+### i'm currently a computer science undergraduate passionate about software & game development.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/ajhxKm7r2ZUAAAAM/enbabyfazball-plateup.gif">
 
