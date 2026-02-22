@@ -64,7 +64,7 @@
 if you have any questions, feel free to reach out! 😉
 
 <a href="mailto:lin.christ@northeastern.edu">
- <img align="left" alt="Outlook" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
+ <img align="left" alt="Outlook" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
 </a>
 <a href="https://www.linkedin.com/in/christina-lin-40466a30b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/linkedin.png" />
