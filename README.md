@@ -62,8 +62,8 @@
 </p>
 
 <p>
-  <a href="mailto:lin.christ@northeastern.edu">
-    <img align="left" alt="Email" width="150" height="100"
+  <a href="">
+    <img align="left" alt="lin.christ@northeastern.edu" width="150" height="100"
       src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/outlook.png" />
   </a>
 
