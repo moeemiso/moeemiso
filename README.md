@@ -45,9 +45,9 @@
 </br>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="120" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/visualstudio_code.png" alt="visualstudio_code" width="243" hight="60">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="185" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="186" hight="50">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="115" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="110" hight="50">
 </p>
 </br>
 </br>
@@ -58,18 +58,22 @@
 # contact me :
 
 <p>
- </br
-if you have any questions, feel free to reach out! 😉
+  <strong>If you have any questions, feel free to reach out! 😉</strong>
+</p>
 
-<a href="">
- <img align="left" alt="lin.christ@northeastern.edu" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
-</a>
-<a href="https://www.linkedin.com/in/christina-lin-40466a30b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
+<p>
+  <a href="mailto:lin.christ@northeastern.edu">
+    <img align="left" alt="Email" width="150" height="100"
+      src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/outlook.png" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/christina-lin-40466a30b/">
+    <img align="left" alt="LinkedIn" width="150" height="100"
+      src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
+  </a>
+</p>
+
+<br clear="left"/>
 
   </a>
   </p>
