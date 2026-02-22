@@ -58,15 +58,10 @@
 # contact me :
 
 <p>
-  <strong>if you have any questions, feel free to reach out! 😉</strong>
+  <strong>if you have any questions, feel free to reach out either through email or linkedin! 😉</strong>
 </p>
 
 <p>
-  <a href="">
-    <img align="left" alt="lin.christ@northeastern.edu" width="150" height="100"
-      src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/outlook.png" />
-  </a>
-
   <a href="https://www.linkedin.com/in/christina-lin-40466a30b/">
     <img align="left" alt="LinkedIn" width="150" height="100"
       src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/linkedin.png" />
