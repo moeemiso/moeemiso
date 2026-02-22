@@ -11,21 +11,21 @@
 
 # about me 💬 :
 
-### - I'm currently a Computer Science undergraduate passionate about software & game development. 
+### - i'm currently a computer science undergraduate passionate about software & game development. 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/ajhxKm7r2ZUAAAAM/enbabyfazball-plateup.gif">
 
-### - Learning :
-- ✨ Algorithms & Data Structures
-- ✨ AI
-- ✨ Unity (C#)
+### - learning :
+- ✨ algorithms & data structures
+- ✨ ai
+- ✨ unity (c#)
 
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching East Asian Dramas
-- ✨ Reading Webcomics & Novels
-- ✨ Cosplaying
-- ✨ Karaoke
+### - hobbies : 
+- ✨ gaming
+- ✨ watching dramas
+- ✨ reading webcomics & novels
+- ✨ cosplaying
+- ✨ karaoke
 
 </br>
 </br>
@@ -33,7 +33,7 @@
 
 
 
-# languages & tools 👨‍💻 🛠:
+# languages & tools 🛠:
 </br>
 
 <p align="center">
@@ -43,7 +43,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/java.png" alt="java" width="90" hight="50">
 
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="270" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="200" hight="30">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="240" hight="50">
 </br>
@@ -61,7 +61,7 @@
  </br>
 
 
-If you have any questions, feel free to reach out! 😉
+if you have any questions, feel free to reach out! 😉
 
 <a href="mailto:lin.christ@northeastern.edu">
  <img align="left" alt="Outlook" width="130" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
