@@ -40,14 +40,14 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/csharp.png" alt="c#"  width="100" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/java.png" alt="java" width="90" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/languages/java.png" alt="java" width="100" hight="50">
 
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="200" hight="30">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="240" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/frameworks/unity.png" alt="unity" width="100" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/visualstudio_code.png" alt="visualstudio_code" width="240" hight="60">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/dev/tools/jetbrains_intellij.png" alt="intellij" width="1500" hight="50">
 </br>
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/devices/pc.png" alt="pc" width="120" hight="50">
 </p>
 </br>
 </br>
@@ -63,8 +63,8 @@
 
 if you have any questions, feel free to reach out! 😉
 
-<a href="mailto:lin.christ@northeastern.edu">
- <img align="left" alt="Outlook" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
+<a href="">
+ <img align="left" alt="lin.christ@northeastern.edu" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/outlook.png" />
 </a>
 <a href="https://www.linkedin.com/in/christina-lin-40466a30b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/4a38660afb7be89a6032218589b4454a1285c7f8/png/social/linkedin.png" />
